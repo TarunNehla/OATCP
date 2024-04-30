@@ -1,0 +1,24 @@
+Output 1 : 
+pr ra ac pra rac act 
+ho ov ve hov ove ver 
+ma at tu mat atu tur 
+ci iv vi civ ivi vil 
+ap pp pe app ppe pea 
+pr ro og pro rog ogr 
+fe ea at fea eat atu 
+ba an ni ban ani nis 
+da am mn dam amn mn
+
+Output 2 : 
+ma ar ra mar ara rat 
+te er rm ter erm rmi 
+co ol ll col oll lle 
+ca ar rt car art rt 
+re ed du red edu duc 
+go oa at goa oat at 
+re ef fo ref efo for 
+na at ti nat ati tio 
+co op pe cop ope pe 
+ch ha an cha han ann 
+ag ge en age gen enc 
+pa ap pe pap ape per
