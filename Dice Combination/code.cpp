@@ -11,6 +11,10 @@ cin.tie(0); cout.tie(0);
 
 int mod = 1e9+7;
 int n; cin >> n;
+if(n<0){
+    cout<<"Enter valid Input"<<endl;
+    return;
+}    
 vector<int> dp(n + 1);
 dp[0] = 1;
 
